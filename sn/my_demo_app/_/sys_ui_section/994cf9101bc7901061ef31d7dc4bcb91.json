@@ -1,0 +1,21 @@
+{
+  "caption": null,
+  "header": false,
+  "name": "x_530067_my_demo_a_mydemo",
+  "roles": null,
+  "sys_class_name": "sys_ui_section",
+  "sys_created_by": "admin",
+  "sys_created_on": "2020-08-31 13:59:24",
+  "sys_id": "994cf9101bc7901061ef31d7dc4bcb91",
+  "sys_mod_count": 0,
+  "sys_name": "x_530067_my_demo_a_mydemo",
+  "sys_package": "c2baf9dc1b87901061ef31d7dc4bcb98",
+  "sys_policy": null,
+  "sys_scope": "c2baf9dc1b87901061ef31d7dc4bcb98",
+  "sys_update_name": "sys_ui_section_994cf9101bc7901061ef31d7dc4bcb91",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2020-08-31 13:59:24",
+  "title": true,
+  "view": "Default view",
+  "view_name": null
+}

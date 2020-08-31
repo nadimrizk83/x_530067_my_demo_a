@@ -1,0 +1,18 @@
+{
+  "category": "x_530067_my_demo_a_mydemo",
+  "maximum_digits": 7,
+  "number": 1000,
+  "prefix": "MYDEMO",
+  "sys_class_name": "sys_number",
+  "sys_created_by": "admin",
+  "sys_created_on": "2020-08-31 13:55:49",
+  "sys_id": "4d7b75101bc7901061ef31d7dc4bcbe6",
+  "sys_mod_count": 0,
+  "sys_name": "MYDEMO",
+  "sys_package": "c2baf9dc1b87901061ef31d7dc4bcb98",
+  "sys_policy": null,
+  "sys_scope": "c2baf9dc1b87901061ef31d7dc4bcb98",
+  "sys_update_name": "sys_number_4d7b75101bc7901061ef31d7dc4bcbe6",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2020-08-31 13:55:49"
+}
