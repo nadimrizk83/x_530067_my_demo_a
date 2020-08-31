@@ -1,0 +1,23 @@
+{
+  "element": null,
+  "help": null,
+  "hint": null,
+  "label": "MyDemo",
+  "language": "en",
+  "name": "x_530067_my_demo_a_mydemo",
+  "plural": "MyDemos",
+  "sys_class_name": "sys_documentation",
+  "sys_created_by": "admin",
+  "sys_created_on": "2020-08-31 13:55:49",
+  "sys_id": "3c7b75101bc7901061ef31d7dc4bcbc8",
+  "sys_mod_count": 0,
+  "sys_name": "MyDemo",
+  "sys_package": "c2baf9dc1b87901061ef31d7dc4bcb98",
+  "sys_policy": null,
+  "sys_scope": "c2baf9dc1b87901061ef31d7dc4bcb98",
+  "sys_update_name": "sys_documentation_x_530067_my_demo_a_mydemo__en",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2020-08-31 13:55:49",
+  "url": null,
+  "url_target": null
+}

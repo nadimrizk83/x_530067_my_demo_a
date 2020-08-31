@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "admin_overrides": true,
+  "advanced": false,
+  "condition": null,
+  "description": null,
+  "name": "x_530067_my_demo_a_mydemo",
+  "operation": "delete",
+  "script": null,
+  "sys_class_name": "sys_security_acl",
+  "sys_created_by": "admin",
+  "sys_created_on": "2020-08-31 13:55:52",
+  "sys_id": "e17bb5101bc7901061ef31d7dc4bcb17",
+  "sys_mod_count": 0,
+  "sys_name": "x_530067_my_demo_a_mydemo",
+  "sys_package": "c2baf9dc1b87901061ef31d7dc4bcb98",
+  "sys_policy": null,
+  "sys_scope": "c2baf9dc1b87901061ef31d7dc4bcb98",
+  "sys_update_name": "sys_security_acl_e17bb5101bc7901061ef31d7dc4bcb17",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2020-08-31 13:55:52",
+  "type": "record"
+}
