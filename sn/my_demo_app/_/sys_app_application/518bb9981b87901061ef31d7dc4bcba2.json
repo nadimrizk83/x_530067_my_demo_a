@@ -1,6 +1,6 @@
 {
   "active": true,
-  "category": "Custom Applications",
+  "category": "e0355b31ef303000a61d5a3615c0fb78",
   "description": null,
   "device_type": "browser",
   "hint": null,
@@ -11,14 +11,14 @@
   "sys_created_by": "admin",
   "sys_created_on": "2020-08-31 13:56:08",
   "sys_id": "518bb9981b87901061ef31d7dc4bcba2",
-  "sys_mod_count": 0,
+  "sys_mod_count": 1,
   "sys_name": "my_demo_app",
   "sys_package": "c2baf9dc1b87901061ef31d7dc4bcb98",
   "sys_policy": null,
   "sys_scope": "c2baf9dc1b87901061ef31d7dc4bcb98",
   "sys_update_name": "sys_app_application_518bb9981b87901061ef31d7dc4bcba2",
-  "sys_updated_by": "admin",
-  "sys_updated_on": "2020-08-31 13:56:08",
+  "sys_updated_by": "devops",
+  "sys_updated_on": "2020-09-01 14:17:53",
   "title": "my_demo_app",
   "view_name": null
 }
